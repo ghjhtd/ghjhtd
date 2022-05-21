@@ -37,6 +37,7 @@ Here are some ideas to get you started:
   <img width="15%" align="middle" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div> -->
 <br>
+<div align="center"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ghjhtd&theme=xcode" width="100%"/> </div>
 
 ## My CSDN Stats
-<div align="center"><img align="center" src="https://stats.justsong.cn/api/csdn?id=荒 ghj&theme=dark" width="90%"></div>
+<div align="center"><img align="center" src="https://stats.justsong.cn/api/csdn?id=weixin_45674624&theme=dark" width="90%"></div>
