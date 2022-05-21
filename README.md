@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with working
 - 💬 Ask me about stm32
 - 📫 How to reach me: 1344081134@qq.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 ## GitHub Stats
 <div align="center" dir="auto">
 <img align="middle" src="https://github-readme-stats.vercel.app/api?username=ghjhtd&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&theme=merko" height="auto" width="50%"/>
@@ -40,4 +39,4 @@ Here are some ideas to get you started:
 <div align="center"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ghjhtd&theme=xcode" width="100%"/> </div>
 
 ## My CSDN Stats
-<div align="center"><img align="center" src="https://stats.justsong.cn/api/csdn?id=weixin_45674624&theme=dark" width="90%"></div>
+<div align="center"><img align="center" src="https://stats.justsong.cn/api/csdn?id=Admin_ghj&theme=dark" width="90%"></div>
