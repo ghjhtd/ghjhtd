@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://img.shields.io/github/followers/ghjhtd?style=social) ![](https://img.shields.io/github/stars/ghjhtd?style=social) ![visitor badge](https://visitor-badge.deta.dev/badge?page_id=ghjhtd.visitor-badge)
 <!--
 **ghjhtd/ghjhtd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghjhtd&theme=calm&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghjhtd)](https://github.com/anuraghazra/github-readme-stats)
+
+## GitHub Stats
+<div align="center" dir="auto">
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=ghjhtd&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&theme=merko" height="auto" width="50%"/>
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghjhtd&hide_title=false&theme=merko&&layout=compact" height="auto" width="45%"/>
+</div>
+<div align="center" dir="auto">
+<img align="middle" src="https://github-readme-stats.vercel.app/api?username=ghjhtd&show_icons=true&hide_title=false&include_all_commits=true&count_private=true&theme=merko" height="auto" width="50%"/>
+<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghjhtd&hide_title=false&theme=merko&&layout=compact" height="auto" width="45%"/>
+</div>
+
+<br>
+<!-- 连续提交代码天数记录 -->
+<!-- <div align="center" dir="auto">
+  <img width="15%" align="middle" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+  <img width="60%" align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=ghjhtd&theme=dark&hide_border=true" />
+  <img width="15%" align="middle" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+</div> -->
+<br>
+
+##My CSDN Stats
+<div align="center"><img align="center" src="https://stats.justsong.cn/api/csdn?id=荒 ghj&theme=dark" width="90%"></div>
